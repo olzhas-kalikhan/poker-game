@@ -1,0 +1,14 @@
+export const NEWACCOUNT_SUCCESS = "NEWACCOUNT_SUCCESS";
+export const NEWACCOUNT_FAIL = "NEWACCOUNT_FAIL";
+export const LOGIN_SUCCESS = "LOGIN_SUCCESS";
+export const LOGIN_FAIL = "LOGIN_FAIL";
+export const LOGOUT = "LOGOUT";
+export const AUTHENTICATE = "AUTHENTICATE";
+
+export const SET_MESSAGE = "SET_MESSAGE";
+export const CLEAR_MESSAGE = "CLEAR_MESSAGE";
+
+export const LOAD_GAMELIST = "LOAD_GAMELIST";
+export const LOAD_GAMELIST_FAIL = "LOAD_GAMELIST_FAIL";
+export const ADD_GAME = "ADD_GAME";
+export const REMOVE_GAME = "REMOVE_GAME";
